@@ -11,7 +11,7 @@ Before you begin, you will need to have the following tools installed on your ma
 - `NPM` or `Yarn`
 
   - `NPM`:<br />
-    recommend version 6.14
+    recommend version v12.22.12
 
     Installing `Node` will also install `NPM` automatically.
 
